@@ -19,7 +19,7 @@ I also enjoy ui, ux, and design in general.
 <div align="center">
 
   
-  ![LeetCode Stats](https://leetcode.card.workers.dev/rahimov19?theme=dark&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/MarquisPeroni?theme=dark&font=baloo&extension=null)
 
   
   </div>  
@@ -39,17 +39,17 @@ I also enjoy ui, ux, and design in general.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/overview.svg#gh-light-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/languages.svg#gh-light-mode-only"/>
   
   
   </div>
   <div align="center">
   
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahimov19&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarquisPeroni&theme=dark)](https://git.io/streak-stats)
   
   
 </div>
