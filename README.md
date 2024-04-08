@@ -7,4 +7,51 @@ I also enjoy ui, ux, and design in general.
 🌱 I’m currently learning React, Typescript, WordPress and PhP
 📫 You can check out my Linkedin https://www.linkedin.com/in/marco-peroni-a58697270/
 
+<div align="center">
+  
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,bootstrap,ts,react,redux,git,github,bash,express,js,vscode&perline=16)](https://skillicons.dev)
+
+
+</div>
+<h2 align="center">LeetCode Statistics</h2>
+
+<div align="center">
+
+  
+  ![LeetCode Stats](https://leetcode.card.workers.dev/rahimov19?theme=dark&font=baloo&extension=null)
+
+  
+  </div>  
+<p align="center">:fire: My GitHub Stats :</p>
+<div id="stats" align="center">
+  
+  
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  
+  
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  
+
+  </div>
+  
+  
+<div id="stats" align="center">
+  
+  
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-light-mode-only"/>
+  
+  
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-light-mode-only"/>
+  
+  
+  </div>
+  <div align="center">
+  
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahimov19&theme=dark)](https://git.io/streak-stats)
+  
+  
+</div>
+
 
