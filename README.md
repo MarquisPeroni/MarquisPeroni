@@ -10,7 +10,7 @@ I also enjoy ui, ux, and design in general.
 <div align="center">
   
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,bootstrap,ts,react,redux,git,github,bash,express,js,vscode&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,bootstrap,ts,react,redux,git,github,bash,express,js,vscode&perline=16)](https://skillicons.dev) 
 
 
 </div>
@@ -27,10 +27,10 @@ I also enjoy ui, ux, and design in general.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/marquisperoni/stats/master/generated/overview.svg#gh-dark-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/marquisperoni/stats/master/generated/languages.svg#gh-dark-mode-only"/>
   
 
   </div>
@@ -39,17 +39,17 @@ I also enjoy ui, ux, and design in general.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/marquisperoni/stats/master/generated/overview.svg#gh-light-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/marquisperoni/stats/master/generated/languages.svg#gh-light-mode-only"/>
   
   
   </div>
   <div align="center">
   
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarquisPeroni&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marquisperoni&theme=dark)](https://git.io/streak-stats)
   
   
 </div>
