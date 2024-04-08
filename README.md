@@ -19,11 +19,11 @@ I also enjoy ui, ux, and design in general.
 <div align="center">
 
   
-  ![LeetCode Stats](https://leetcode.card.workers.dev/MarquisPeroni?theme=dark&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/marquisperoni?theme=dark&font=baloo&extension=null)
 
   
   </div>  
-<p align="center">:fire: My GitHub Stats :</p>
+<p align="center"> My GitHub Stats :</p>
 <div id="stats" align="center">
   
   
