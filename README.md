@@ -27,10 +27,10 @@ I also enjoy ui, ux, and design in general.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/overview.svg#gh-dark-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/MarquisPeroni/stats/master/generated/languages.svg#gh-dark-mode-only"/>
   
 
   </div>
